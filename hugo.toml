@@ -1,7 +1,8 @@
 baseURL = 'https://embednet.github.io/'
 languageCode = 'en-us'
 title = 'Embednet Project'
-theme = 'hugo-blog-awesome'
+#theme = 'hugo-blog-awesome'
+theme = 'ananke'
 
 # Enable emojis globally
 enableEmoji = true
